@@ -1,0 +1,26 @@
+# Node modules and build files
+node_modules/
+dist/
+build/
+.DS_Store
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+.ipynb_checkpoints/
+
+# Local environment
+.env
+.env.local
+.venv/
+venv/
+ENV/
+
+# Optional: Large data files (consider using Git LFS instead)
+# *.csv
+# *.pth
+
+# IDE files
+.vscode/
+.idea/
