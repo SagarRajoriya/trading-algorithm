@@ -34,7 +34,7 @@ A full-stack trading dashboard application that uses LSTM and Deep Reinforcement
 
 1. Clone the repository
    ```
-   git clone https://github.com/yourusername/trading-algorithm.git
+   git remote add origin https://github.com/SagarRajoriya/trading-algorithm.git
    cd trading-algorithm
    ```
 
